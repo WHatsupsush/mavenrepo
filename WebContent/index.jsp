@@ -47,6 +47,11 @@ div.ex {
 					<td>Year Passed</td>
 					<td><input type="text" name="yop"/></td>
 				</tr>
+				<tr>
+					<td>college name</td>
+					<td><input type="text" name="name"/></td>
+					
+					
 			</table>
 			<input type="submit" value="register"/>
 		</form>
